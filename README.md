@@ -39,13 +39,13 @@
 
 ### 🌟 Achievements :
 - 🏆 **LinkedIn Top 14% Indian Creator**: Recognized as one of the top creators in India for my inspiring and engaging content.
-- 💬 **Inspirational Influencer**: Proudly influencing and connecting with a growing family of **6.7k+ followers** on LinkedIn.
+- 💬 **Inspirational Influencer**: Proudly influencing and connecting with a growing family of **8.5k+ followers** on LinkedIn.
 - 📚 **Education**: Holding a Bachelor's degree in **Kathak (7 years)** and pursuing a **B.Tech CSE at RCEW**.
 - 🎯 **Future Goals**: Targeting opportunities at **FAANG/MAANG** companies, primarily through off-campus applications.
 - 📊 **LinkedIn Stats**:
-  - **Posts**: 150+
-  - **Engagements**: 2L+ (likes, comments, shares)
-  - **Impressions**: 1.7L+ including all the posts
+  - **Posts**: 250+
+  - **Engagements**: 3L+ (likes, comments, shares)
+  - **Impressions**: 4.5L+ including all the posts
 
 ---
 
