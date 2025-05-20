@@ -38,7 +38,7 @@
 - **Digital Outreach Strategist @ Secure Her**: Driving impactful digital initiatives.
 
 ### 🌟 Achievements :
-- 🏆 **LinkedIn Top 14% Indian Creator**: Recognized as one of the top creators in India for my inspiring and engaging content.
+- 🏆 **LinkedIn Top 6% Worldwide Content Creator Cum Influencer**: Recognized as one of the top creators in India for my inspiring and engaging content.
 - 💬 **Inspirational Influencer**: Proudly influencing and connecting with a growing family of **8.5k+ followers** on LinkedIn.
 - 📚 **Education**: Holding a Bachelor's degree in **Kathak (7 years)** and pursuing a **B.Tech CSE at RCEW**.
 - 🎯 **Future Goals**: Targeting opportunities at **FAANG/MAANG** companies, primarily through off-campus applications.
