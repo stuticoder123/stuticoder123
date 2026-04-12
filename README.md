@@ -2,36 +2,96 @@
   Hi 👋, I'm Stuti Gupta
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="center">A passionate developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stuticoder123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=stuticoder123&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/stuticoder123">
-    <img src="https://github-profile-trophy.vercel.app/?username=stuticoder123&theme=radical&no-frame=true&column=3" alt="GitHub Trophies" />
-  </a>
-</p>
-
+<!-- X Follow Badge -->
 <p align="center">
   <a href="https://x.com/stuticoder123" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/stuticoder123?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/stuticoder123?logo=x&style=for-the-badge" alt="Follow on X" />
   </a>
 </p>
 
 ---
 
-### 🛠 About Me :
-- 🔭 I’m currently working on **C++ and DSA**
-- 🌱 I’m currently learning **Java**
-- 👯 I’m looking to collaborate on **App Development**
-- 🤝 I’m looking for help with **Mobile and App Development**
-- 📝 I regularly write articles on [My LinkedIn Profile](https://www.linkedin.com/in/stuti-gupta-0374952a9)
-- 💬 Ask me about **C, C++, Java, and Python**
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:stuticoder123@gmail.com) **stuticoder123@gmail.com**
-- ⚡ Fun fact: **I am a professional Graphic Canva Designer**
-- 💡 Currently focusing on **Data Structures and Algorithms (DSA)**, leveraging languages like **C++, Python, and Java** for problem-solving.
+## 📊 GitHub Insights & Activity
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=stuticoder123&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=stuticoder123&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stuticoder123&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+---
+## 📈 GitHub Activity Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stuticoder123&theme=tokyonight" />
+</p>
+
+---
+
+## 🛠 About Me
+
+💻 I’m currently working on **C++ & Data Structures and Algorithms (DSA)**  
+🌱 I’m currently learning **Java & Backend Development**  
+🚀 I love building **scalable apps & solving real-world problems**  
+🤝 Open to collaborating on **App Development & Open Source Projects**  
+📝 I write tech content on **LinkedIn**  
+💬 Ask me about **C, C++, Java, Python & DSA**  
+🎨 Fun fact: I’m a **Professional Canva Graphic Designer**
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:stuticoder123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/stuti-gupta-0374952a9">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Current Focus
+
+🔥 Mastering **DSA in C++ & Python**  
+🔥 Learning **Java for development & backend systems**  
+🔥 Exploring **App Development (Android / Cross-platform)**  
+🔥 Building strong **problem-solving & system design mindset**
+
+---
+
+⭐ *"Code. Learn. Build. Repeat."*
 
 ### 💼 Experience :
 - **Co-founder @ Alum-Connect**: Building connections and fostering community.
@@ -111,17 +171,6 @@
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
     </a>
 </p>
-
----
-
-### 📊 GitHub Stats : 
-<p align='center'>
-  <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=stuticoder123&layout=compact&theme=radical' alt='Top Languages'/>
-</p>
-
-<p>&nbsp;<img align='center' src='https://github-readme-stats.vercel.app/api?username=stuticoder123&show_icons=true&locale=en&theme=radical' alt='GitHub Stats'/></p>
-
-<p><img align='center' src='https://github-readme-streak-stats.herokuapp.com/?user=stuticoder123&theme=radical' alt='GitHub Streak'/></p>
 
 ---
 
