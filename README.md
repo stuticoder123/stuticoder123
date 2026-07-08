@@ -221,10 +221,15 @@ Explore all my open-source projects and experiments.
 <h2 align="center">
 ✨ So, Do You Want To Know More About Me Still? ✨
 </h2>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/stuticoder123/stuticoder123/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/stuticoder123/stuticoder123/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stuticoder123/stuticoder123/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/stuticoder123/stuticoder123/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 </div>
+
+<br/>
 <br>
 
 <table align="center">
