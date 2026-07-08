@@ -52,7 +52,7 @@ class StutiGupta:
 player = StutiGupta()
 ```
 
-## Development Stats
+## 🎀 A Little Proof That I've Been Coding
 
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=stuticoder123&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" height="170"/>
@@ -61,7 +61,7 @@ player = StutiGupta()
 
 ---
 
-## 📅 Contribution Calendar
+## 🎀 A HeatMap of Curiosity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stuticoder123&theme=tokyo-night&area=true&hide_border=true" />
@@ -69,7 +69,7 @@ player = StutiGupta()
 
 ---
 
-## 🚀 Live Projects
+## 🎀 Things keeping me busy 
 
 <table>
 <tr>
@@ -162,7 +162,7 @@ Explore all my open-source projects and experiments.
 </table>
 
 ---
-### ⚡ Tech Arsenal
+### 🎀 Tools I would always like to be with
 
 <div align="center">
 
@@ -217,9 +217,209 @@ Explore all my open-source projects and experiments.
 </div>
 
 ---
+<h2 align="center">🎀 Contributing Beyond My Own Repositories </h2>
+
+<p align="center">
+Contributing to impactful projects across automation, developer tools, AI, education, performance engineering, and open-source communities.
+</p>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## ⚡ Activepieces
+
+Open-source workflow automation platform and one of the most popular alternatives to Zapier.
+
+![Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=for-the-badge)
+![Language](https://img.shields.io/github/languages/top/activepieces/activepieces?style=for-the-badge)
+
+<a href="https://github.com/activepieces/activepieces">
+<img src="https://img.shields.io/badge/📂_Explore_Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/activepieces/activepieces/pulls?q=is%3Apr+author%3Astuticoder123">
+<img src="https://img.shields.io/badge/🚀_View_My_PRs-FF69B4?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🦊 Firefox Profiler
+
+Mozilla's performance profiling tool used for debugging and optimizing applications.
+
+![Stars](https://img.shields.io/github/stars/firefox-devtools/profiler?style=for-the-badge)
+![Language](https://img.shields.io/github/languages/top/firefox-devtools/profiler?style=for-the-badge)
+
+<a href="https://github.com/firefox-devtools/profiler">
+<img src="https://img.shields.io/badge/📂_Explore_Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/firefox-devtools/profiler/pulls?q=is%3Apr+author%3Astuticoder123">
+<img src="https://img.shields.io/badge/🚀_View_My_PRs-FF69B4?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 💼 Open Source Jobs
+
+A curated collection of open-source jobs, internships, and remote opportunities.
+
+![Stars](https://img.shields.io/github/stars/timqian/open-source-jobs?style=for-the-badge)
+![Language](https://img.shields.io/github/languages/top/timqian/open-source-jobs?style=for-the-badge)
+
+<a href="https://github.com/timqian/open-source-jobs">
+<img src="https://img.shields.io/badge/📂_Explore_Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/timqian/open-source-jobs/pulls?q=is%3Apr+author%3Astuticoder123">
+<img src="https://img.shields.io/badge/🚀_View_My_PRs-FF69B4?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌟 Zenotion
+
+AI-powered productivity and knowledge management platform.
+
+![Stars](https://img.shields.io/github/stars/Suprabhat3/Zenotion?style=for-the-badge)
+![Language](https://img.shields.io/github/languages/top/Suprabhat3/Zenotion?style=for-the-badge)
+
+<a href="https://github.com/Suprabhat3/Zenotion">
+<img src="https://img.shields.io/badge/📂_Explore_Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/Suprabhat3/Zenotion/pulls?q=is%3Apr+author%3Astuticoder123">
+<img src="https://img.shields.io/badge/🚀_View_My_PRs-FF69B4?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📚 Viz Learn
+
+Interactive learning platform that simplifies concepts through visual learning.
+
+![Stars](https://img.shields.io/github/stars/Siddharth9304/viz-learn?style=for-the-badge)
+![Language](https://img.shields.io/github/languages/top/Siddharth9304/viz-learn?style=for-the-badge)
+
+<a href="https://github.com/Siddharth9304/viz-learn">
+<img src="https://img.shields.io/badge/📂_Explore_Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/Siddharth9304/viz-learn/pulls?q=is%3Apr+author%3Astuticoder123">
+<img src="https://img.shields.io/badge/🚀_View_My_PRs-FF69B4?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 GestureDrive AI
+
+Computer vision powered gesture-controlled interaction system.
+
+![Stars](https://img.shields.io/github/stars/MITAANSH001/GestureDrive-AI?style=for-the-badge)
+![Language](https://img.shields.io/github/languages/top/MITAANSH001/GestureDrive-AI?style=for-the-badge)
+
+<a href="https://github.com/MITAANSH001/GestureDrive-AI">
+<img src="https://img.shields.io/badge/📂_Explore_Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/MITAANSH001/GestureDrive-AI/pulls?q=is%3Apr+author%3Astuticoder123">
+<img src="https://img.shields.io/badge/🚀_View_My_PRs-FF69B4?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🐼 Panda Encoder
+
+Developer-friendly media encoding and optimization toolkit.
+
+![Stars](https://img.shields.io/github/stars/BlackPanda-Labs/panda-encoder?style=for-the-badge)
+![Language](https://img.shields.io/github/languages/top/BlackPanda-Labs/panda-encoder?style=for-the-badge)
+
+<a href="https://github.com/BlackPanda-Labs/panda-encoder">
+<img src="https://img.shields.io/badge/📂_Explore_Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/BlackPanda-Labs/panda-encoder/pulls?q=is%3Apr+author%3Astuticoder123">
+<img src="https://img.shields.io/badge/🚀_View_My_PRs-FF69B4?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💪 FitMart
+
+Community-driven fitness and wellness marketplace platform.
+
+![Stars](https://img.shields.io/github/stars/parthbuilds-community/FitMart?style=for-the-badge)
+![Language](https://img.shields.io/github/languages/top/parthbuilds-community/FitMart?style=for-the-badge)
+
+<a href="https://github.com/parthbuilds-community/FitMart">
+<img src="https://img.shields.io/badge/📂_Explore_Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/parthbuilds-community/FitMart/pulls?q=is%3Apr+author%3Astuticoder123">
+<img src="https://img.shields.io/badge/🚀_View_My_PRs-FF69B4?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+## 🧠 megallm-NPM
+
+NPM package simplifying integration of modern AI coding assistants and LLM workflows.
+
+![Stars](https://img.shields.io/github/stars/Megallm/megallm-npm?style=for-the-badge)
+![Language](https://img.shields.io/github/languages/top/Megallm/megallm-npm?style=for-the-badge)
+
+<br>
+
+<a href="https://github.com/Megallm/megallm-npm">
+<img src="https://img.shields.io/badge/📂_Explore_Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/Megallm/megallm-npm/pulls?q=is%3Apr+author%3Astuticoder123">
+<img src="https://img.shields.io/badge/🚀_View_My_PRs-FF69B4?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+</table>
 
 <h2 align="center">
-✨ So, Do You Want To Know More About Me Still? ✨
+Still curious...about me?
 </h2>
 <div align="center">
 <picture>
@@ -230,30 +430,35 @@ Explore all my open-source projects and experiments.
 </div>
 
 <br/>
-<br>
+
+<div align="center">
+
+╭────────────── 🎀 ──────────────╮
+
+<h2>A Few Things That Define Me</h2>
 
 <table align="center">
 <tr>
 
 <td width="50%" align="center">
 
-<h3>🚀 Currently Building</h3>
+<h3>Learning</h3>
 
-🔥 DSA & Problem Solving  
-💻 Full Stack Projects  
-🤖 Exploring AI/ML  
-🌱 Learning & Growing  
+Solving Problems  
+Building Products  
+Exploring AI  
+Growing Every Day  
 
 </td>
 
 <td width="50%" align="center">
 
-<h3>🌷 Beyond Coding</h3>
+<h3>Creating</h3>
 
-🎨 Canva Creator  
-💃 Classical Dance  
-🎙️ Voice & Content Creation  
-💖 Community Building  
+Designing Visuals  
+Telling Stories  
+Expressing Through Dance  
+Building Communities  
 
 </td>
 
@@ -263,30 +468,32 @@ Explore all my open-source projects and experiments.
 
 <td width="50%" align="center">
 
-<h3>💡 My Interests</h3>
+<h3>Believing In</h3>
 
-⚡ System Design  
-📚 Writing & Sharing Knowledge  
-🎤 Public Speaking  
-🌍 Creating Impact  
+Sharing Knowledge  
+Meaningful Connections  
+Lifelong Curiosity  
+Creating Value  
 
 </td>
 
-
 <td width="50%" align="center">
 
-<h3>🌸 My Philosophy</h3>
+<h3>A Simple Reminder</h3>
 
-✨ Stay Curious  
-🚀 Stay Consistent  
-🌱 Keep Learning  
-💫 Keep Creating  
+Be Curious  
+Be Consistent  
+Be Kind  
+Keep Creating  
 
 </td>
 
 </tr>
 </table>
 
+╰────────────── 🎀 ──────────────╯
+
+</div>
 
 ## 🎵 Currently Coding To
 
