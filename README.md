@@ -1,4 +1,4 @@
-<!-- Stuti Gupta Intro -->
+<!-- Stuti Gupta Intro - for making README -->
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/stuticoder123/stuticoder123/main/assets/name.svg" alt="Stuti Gupta" />
