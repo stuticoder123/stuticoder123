@@ -33,10 +33,10 @@ class StutiGupta:
         ]
 
         self.stats = {
-            "community": "20K+ LinkedIn Family",
+            "community": "24K+ LinkedIn Family",
             "reach": "500K+ Impressions",
-            "internships": "9+",
-            "open_source": "GSSoC Contributor"
+            "internships": "2+",
+            "open_source": "Love to solve complex problems through better solutions"
         }
 
         self.life_philosophy = (
