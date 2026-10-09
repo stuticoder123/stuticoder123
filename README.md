@@ -61,11 +61,23 @@ player = StutiGupta()
 
 ---
 
-## 🎀 A HeatMap of Curiosity
+## 🎀 A Heatmap of Curiosity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stuticoder123&theme=tokyo-night&area=true&hide_border=true" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://ghchart.rshah.org/40c463/stuticoder123"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://ghchart.rshah.org/40c463/stuticoder123"
+  />
+  <img
+    src="https://ghchart.rshah.org/40c463/stuticoder123"
+    alt="Stuti's GitHub contribution graph"
+    width="100%"
+  />
+</picture>
 
 ---
 
